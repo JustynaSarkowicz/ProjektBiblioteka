@@ -1,0 +1,139 @@
+"Hobbit, czyli tam i z powrotem"
+"John Ronald Reuel Tolkien"
+1937
+"miękka"
+304
+"powieść fantasy"
+
+"Zbrodnia i kara"
+"Fiodor Dostojewski"
+1867
+"miękka"
+374
+"powieść psychologiczna"
+
+"Morderstwo w Orient Expressie"
+"Agatha Christie"
+1934
+"twarda"
+272
+"powieść kryminalna"
+
+"Balladyna"
+"Juliusz Słowacki"
+1839
+"miękka"
+248
+"dramat"
+
+"Przedwiośnie"
+"Stefan Żeromski"
+1924
+"twarda"
+272
+"powieść polityczna"
+
+"Akademia Pana Kleksa"
+"Jan Brzechwa"
+1946
+"twarda"
+232
+"literatura dziecięca"
+
+"Solaris"
+"Stanisław Lem"
+1961
+"miękka"
+340
+"powieść fantastyczno-naukowa"
+
+"Z mgły zrodzony"
+"Brandon Sanderson"
+2006
+"twarda"
+689
+"powieść fantasy"
+
+"Wesele"
+"Stanisław Wyspiański"
+1901
+"miękka"
+240
+"dramat"
+
+"Zemsta"
+"Aleksander Fredro"
+1834
+"twarda"
+152
+"komedia"
+
+"Potop"
+"Henryk Sienkiewicz"
+1886
+"twarda"
+948
+"powieść historyczna"
+
+"Skąpiec"
+"Molier"
+1668
+"twarda"
+120
+"komedia"
+
+"Okrutny Książe"
+"Holly Black"
+2018
+"miękka"
+424
+"powieść fantasy"
+
+"Lalka"
+"Bolesław Prus"
+1889
+"twarda"
+664
+"powieść społeczna"
+
+"Wojna Makowa"
+"Rebecca Kuang"
+2018
+"twarda"
+272
+"powieść fantasy"
+
+"Krótka historia czasu"
+"Stephen Hawking"
+1988
+"miękka"
+296
+"lietratura popularnonaukowa"
+
+"To"
+"Stephen King"
+1986
+"twarda"
+1104
+"horror"
+
+"Pierwszy śnieg"
+"AJo Nesbo"
+2007
+"miękka"
+432
+"powieść kryminalna"
+
+"Makbet"
+"William Shakespeare"
+1606
+"miękka"
+144
+"tragedia"
+
+"Treny"
+"Jan Kochanowski"
+1580
+"twarda'
+258
+"poezja"
